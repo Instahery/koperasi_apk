@@ -9,3 +9,13 @@ isi combo data kelurahan dan kecamatan
 isi combo jabatan 
 isi combo nama bank
 
+
+
+TAMBAH LOGIN dengan 
+Akun Google V
+Facebook
+Apple
+Twitter
+Ho HP V
+Email V
+
