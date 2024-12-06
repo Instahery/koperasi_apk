@@ -1,0 +1,19 @@
+header
+Label Tanggal
+label jam
+label user/anggota
+label quote
+label notifikasi/pengumuman
+
+menu koperasi
+tombol icon simpanan pokok
+tombol icon simpanan wajib
+tombol icon tabungan
+tombol investasi
+
+
+menu komersial
+pembelian pulsa
+pembeliam listrik
+
+menu lain lain
