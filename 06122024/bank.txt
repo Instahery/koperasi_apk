@@ -1,0 +1,15 @@
+ 022 - Bank CIMB Niaga Syariah
+ 147 - Bank Muamalat
+ 425 - Bank BJB Syariah
+ 451 - Bank Syariah Indonesia (BSI)
+ 506 - Bank Mega Syariah
+ 517 - Bank Panin Dubai Syariah
+ 521 - Bank Bukopin Syariah
+ 536 - Bank BCA Syariah
+ 547 - Bank BTPN Syariah
+ 947 - Bank Aladin Syariah
+000 - GoPay
+000 - OVO
+000 - Dana
+000 - Shopee Pay
+000 - Link Aja
